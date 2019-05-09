@@ -1,2 +1,2 @@
-# cpp-design-pattern
-cpp design pattern practice
+# cpp practice library
+Hack cool.
